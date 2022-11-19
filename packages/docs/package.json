@@ -28,8 +28,8 @@
   },
   "dependencies": {
     "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@zenky-ignite-ds/react": "*",
+    "@zenky-ignite-ds/tokens": "*",
     "@ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.13",
     "phosphor-react": "^1.4.1",
