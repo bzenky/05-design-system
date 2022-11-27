@@ -1,5 +1,11 @@
 # @zenky-ignite-ds/react
 
+## 2.2.0
+
+### Minor Changes
+
+- toast
+
 ## 2.1.0
 
 ### Minor Changes

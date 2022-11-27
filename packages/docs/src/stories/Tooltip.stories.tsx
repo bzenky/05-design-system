@@ -3,7 +3,7 @@ import { Tooltip, TooltipProps } from '@zenky-ignite-ds/react'
 import { Info } from 'phosphor-react'
 
 export default {
-    title: 'Form/Tooltip',
+    title: 'Overlay/Tooltip',
     component: Tooltip,
     args: {
         children: <Info size={24} color="orange" weight="bold" />,
