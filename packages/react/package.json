@@ -1,6 +1,6 @@
 {
   "name": "@zenky-ignite-ds/react",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -15,10 +15,10 @@
   "license": "MIT",
   "devDependencies": {
     "@ignite-ui/eslint-config": "*",
-    "@zenky-ignite-ds/tokens": "*",
     "@ignite-ui/ts-config": "*",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
+    "@zenky-ignite-ds/tokens": "*",
     "react": "^18.2.0",
     "tsup": "^6.5.0",
     "typescript": "^4.8.4"
@@ -26,6 +26,7 @@
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.1",
     "@radix-ui/react-checkbox": "^1.0.1",
+    "@radix-ui/react-tooltip": "^1.0.2",
     "@stitches/react": "^1.2.8",
     "phosphor-react": "^1.4.1"
   }
