@@ -1,0 +1,2 @@
+import{A as t}from"./index.f62c1741.js";import"./index.70cecd82.js";import"./iframe.f94545d8.js";import"./index.c9254002.js";import"./jsx-runtime.6a46b9c0.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/bzenky.png",alt:"Zenky"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallBack"];export{c as Primary,e as WithFallBack,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.8b9f5e5b.js.map

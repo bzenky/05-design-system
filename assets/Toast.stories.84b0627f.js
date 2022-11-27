@@ -1,0 +1,2 @@
+import{d as t}from"./index.f62c1741.js";import"./index.70cecd82.js";import"./iframe.f94545d8.js";import"./index.c9254002.js";import"./jsx-runtime.6a46b9c0.js";const a={title:"Overlay/Toast",component:t,args:{title:"Lorem Ipsum",description:"Ignatia Non Asiris"},argTypes:{title:{control:{type:"text"}},description:{control:{type:"text"}}}},p={},m=["Primary"];export{p as Primary,m as __namedExportsOrder,a as default};
+//# sourceMappingURL=Toast.stories.84b0627f.js.map
